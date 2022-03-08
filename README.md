@@ -1,2 +1,2 @@
-# vue-playground
+# Vue Playground
  
